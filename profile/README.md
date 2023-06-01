@@ -1,29 +1,15 @@
-# The Panopticon.
+# Panopticon
 
-The tools that we build all start as solutions to the problems we run into during investigative, or security related work.
+An innovative online platform created out of a need to more easily manage large scale investigations. 
 
-Most recently a particularly challenging investigation had us almost beat, just by the sheer amount of data that had to be parsed and analysed.
+Whether you're a journalist, researcher, or private investigator, Panopticon offers a comprehensive suite of tools, resources, and automated pipelines all managed from within its user-friendly interface, known as "The Observatory."
 
-After some weeks of intense research and coding, the Panoticon platform was born, with the Observatory as a single pane of glass on top to manage complexity with ease.
+Panopticon serves as a centralized hub, seamlessly collecting, organizing, and analyzing vast amounts of data. Through The Observatory, users can navigate various modules and features tailored to their specific needs, ensuring a smooth and intuitive experience.
 
-We believe this is likely one of the most powerful investigative tools on the market today.
+One of the standout features of Panopticon is its advanced data aggregation capabilities. The platform utilizes cutting-edge web scraping and data mining techniques to gather information from diverse sources, including news articles, social media, public records, and many more. By automating the retrieval process and leveraging intelligent algorithms, investigators can save valuable time while ensuring relevant data is filtered and categorized efficiently.
 
-While this platform is under heavy development, and this list is most likely to see changes in the near future, below a non-exhaustive summation of the core features the Panopticon platform has to offer.
+Data integrity and secure collaboration are paramount on Panopticon. The platform offers robust encryption and secure cloud storage, allowing investigators to upload and store documents, images, videos, and other evidence directly on the platform. This ensures easy accessibility and seamless sharing with team members or clients, enhancing collaboration and efficiency.
 
-## ◻️ The Observatory
+Panopticon also provides powerful analysis tools to uncover hidden connections and make sense of complex data patterns. The Observatory incorporates advanced data visualization techniques, making it easy to identify trends, visualize networks, and generate insightful reports. Supporting methodologies such as link analysis, social network analysis, and geospatial mapping, The Observatory provides a comprehensive overview of every little detail.
 
-This is the user interface that allows someone to manage their investigations.
-
-### ⬛ Dashboards
-
-A flexible dashboard system can help you get a quick overview of the current state of your investigation, including any background jobs that might be running under your account.
-
-### ⬛ Maps
-
-Advanced map integration allows you to see any data point you have collected with an accurate geographical visual context.
-
-Maps also include Layers, which are pre-configured data sets and visualizations that offer plenty of global and local demographic data, should it be useful to you.
-
-### ⬛ Graphs & Charts
-
-An formidable array of charting and graphing options are available to you, either as one-off visualizations of data, or to include in dashboards.
+Below is a brief overview of a non-exhaustive list of the core features the platform has to offer. For more information, visit [https://blog.panopticon.com](our blog).
