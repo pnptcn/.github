@@ -12,4 +12,4 @@ Data integrity and secure collaboration are paramount on Panopticon. The platfor
 
 Panopticon also provides powerful analysis tools to uncover hidden connections and make sense of complex data patterns. The Observatory incorporates advanced data visualization techniques, making it easy to identify trends, visualize networks, and generate insightful reports. Supporting methodologies such as link analysis, social network analysis, and geospatial mapping, The Observatory provides a comprehensive overview of every little detail.
 
-Below is a brief overview of a non-exhaustive list of the core features the platform has to offer. For more information, visit [our blog]([our blog](https://blog.panopticon.com)).
+Below is a brief overview of a non-exhaustive list of the core features the platform has to offer. For more information, visit [https://blog.pnptcn.com](our blog).
